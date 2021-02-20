@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArkesService", "ArkesService\ArkesService.csproj", "{51AF5A10-9766-454A-A950-1FE35AA56D83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArkesApp", "ArkesApp\ArkesApp.csproj", "{1ADB4111-C87B-4263-B4D0-775D08A0372A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51AF5A10-9766-454A-A950-1FE35AA56D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51AF5A10-9766-454A-A950-1FE35AA56D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51AF5A10-9766-454A-A950-1FE35AA56D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51AF5A10-9766-454A-A950-1FE35AA56D83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ADB4111-C87B-4263-B4D0-775D08A0372A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADB4111-C87B-4263-B4D0-775D08A0372A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADB4111-C87B-4263-B4D0-775D08A0372A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADB4111-C87B-4263-B4D0-775D08A0372A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F41D12A5-35E6-4B0E-B815-49137C113212}
+	EndGlobalSection
+EndGlobal
